@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Christina Fitzsimmons"
+  avatar           : "profile.jpg"
+  bio              : "ACS Postdoctoral Fellow in Batista Lab"
+  location         : "National Institutes of Health, Bethesda, MD"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Christina+Fitzsimmons"
+  googlescholar    : "https://scholar.google.com/citations?user=KbbdX1AAAAAJ&hl=en"
   email            :
-  researchgate     : 
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FitzsimmonsCM"
+  github           : "https://github.com/FitzsimmonsCM"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6743-2671"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "@FitzsimmonsCM"
+  twitter          : "https://twitter.com/FitzsimmonsCM"
   vine             :
   weibo            :
   xing             :
